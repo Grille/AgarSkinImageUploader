@@ -1,0 +1,13 @@
+{
+  "name": "AgerImageDrop",
+  "version": "0.1",
+  "description": "Upload images to agar.io",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "content_scripts":[
+    {
+      "matches":["https://Agar.io/*"],
+      "js":["script.js"]
+    }
+  ],
+  "manifest_version": 2
+}
