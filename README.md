@@ -1,4 +1,4 @@
-# AgarImageDrop
+# AgarSkinImageUploader
 Chrome extension for Agar.io to upload images to the new skin editor.</br>
 </br>
 In the skin editor of ager.io, you can now easily replace your skin with an existing image file, via drag and drop.</br>
