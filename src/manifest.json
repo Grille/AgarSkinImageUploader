@@ -1,5 +1,5 @@
 {
-  "name": "AgerImageDrop",
+  "name": "Agar Skin Image Uploader",
   "version": "0.1",
   "description": "Upload images to agar.io",
   "permissions": ["activeTab", "declarativeContent", "storage"],
