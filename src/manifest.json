@@ -9,5 +9,8 @@
       "js":["script.js"]
     }
   ],
+  "icons": {
+    "128": "icon.png"
+  },
   "manifest_version": 2
 }
